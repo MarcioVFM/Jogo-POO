@@ -1,0 +1,9 @@
+-def:
+    quando estao fora de uma classe sao FUNCOES
+    quando estao dentro de uma classe sao METODOS
+
+-pilares do POO
+    herança: a classe filha herda os atributos  da classe mae
+    polimorfismo: poder mudar os metodos herdados
+    encapsulamento: privar para nao ter acesso fora da classe, somente com metodos, __
+    abstracao: sao metodos de uma classe mae que serao obrigatorios em classes filhas, @abstractmethodttt"
